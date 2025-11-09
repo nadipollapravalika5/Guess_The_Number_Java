@@ -1,4 +1,4 @@
-# Guess_The_Number_Java
+
 
 # Guess The Number (Java)
 A simple console-based Java game where you try to guess the random number between 1–100.  
